@@ -1,0 +1,13 @@
+ /**
+* @name TUFF KOOLKID THEME
+ * @author koolkid.mp3
+ * @version 1.0.0
+ * @description the coolest theme u will ever see
+*/
+
+/* Variables */
+:root {
+  --avatar-size: 32px;
+  --background-image: url(https://25.media.tumblr.com/7b786fa08217479730c73f04b7baab3e/tumblr_mtc3hh4XVM1svv6yyo1_500.gif');
+  --home-image: url(https://25.media.tumblr.com/7b786fa08217479730c73f04b7baab3e/tumblr_mtc3hh4XVM1svv6yyo1_500.gif');
+}
